@@ -2,8 +2,6 @@ Olá, meu nome é Danilo Amaral 👋
 
 
 - 🔭 Atualmente estou estudando e planejando migrar para a área tech!
-- 🌱 Faço parte do programa Full Stack 10° Edição Starter - Growdev - HTML | CSS | JavaScript 
-
 
 ### Contatos
 
